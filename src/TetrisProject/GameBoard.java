@@ -1,7 +1,8 @@
 // ===============================
 // AUTHOR       : Marilin Ortuno
 // CREATE DATE  : August 24, 2019
-// PURPOSE      : Holds all logic for the tetris game board and its tetromino pieces. 
+// CLASS NAME   : GameBoard.java
+// PURPOSE      : This class holds all the logic for the tetris game board displayed on the screen, which displays the tetromino shapes and movements. 
 //==================================
 
 package TetrisProject;
