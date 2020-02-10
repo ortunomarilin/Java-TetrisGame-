@@ -1,3 +1,8 @@
+// ===============================
+// AUTHOR       : Marilin Ortuno
+// CREATE DATE  : August 24, 2019
+// PURPOSE      : Holds all logic for the tetris game board and its tetromino pieces. 
+//==================================
 
 package TetrisProject;
 
