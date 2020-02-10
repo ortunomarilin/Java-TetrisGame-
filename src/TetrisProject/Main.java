@@ -1,3 +1,11 @@
+// ===============================
+// AUTHOR       : Marilin Ortuno
+// CREATE DATE  : August 24, 2019
+// CLASS NAME   : Main.java
+// PURPOSE      : Main class of the Tetris Game project. Holds the main method which will run the program, and display the window screen for the game.  
+//==================================
+
+
 
 package TetrisProject;
 
