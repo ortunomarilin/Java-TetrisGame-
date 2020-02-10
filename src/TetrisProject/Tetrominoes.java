@@ -1,3 +1,11 @@
+// ===============================
+// AUTHOR       : Marilin Ortuno
+// CREATE DATE  : August 24, 2019
+// CLASS NAME   : Tetrominoes.java
+// PURPOSE      : This class is used to create new tretrominos and thier corresponsing sets for the purpose of rotating the tetromino pieces.  
+//==================================
+
+
 
 package TetrisProject;
 
