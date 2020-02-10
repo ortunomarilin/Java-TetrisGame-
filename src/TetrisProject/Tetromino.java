@@ -1,3 +1,10 @@
+// ===============================
+// AUTHOR       : Marilin Ortuno
+// CREATE DATE  : August 24, 2019
+// CLASS NAME   : Tetromino.java
+// PURPOSE      : This class is used to represent all the properties and methods (actions) of a tetromino piece. 
+//==================================
+
 
 package TetrisProject;
 
