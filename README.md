@@ -10,3 +10,5 @@ A program which was derived from the classic game of Tetris. The application was
 - CSS
 
 ### Screen Shot 
+
+<img src="ScreenShot.png">
