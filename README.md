@@ -5,8 +5,8 @@ A program which was derived from the classic game of Tetris. The application was
 
 ### Utilized
 
-NetBeans 
-Java 
-CSS
+- NetBeans 
+- Java 
+- CSS
 
 ### Screen Shot 
