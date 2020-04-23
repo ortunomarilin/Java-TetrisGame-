@@ -1,4 +1,4 @@
-# Java-TetrisGame
+# Tetris Game
 
 A program which was derived from the classic game of Tetris. The application was designed in an object-oriented programming style and relies on both event handling and the use of objects. 
 
